@@ -19,7 +19,7 @@ Program w języku C, który symuluje harmonogram spłat kredytu z ratami maleją
 Aby skompilować program, w terminalu uruchom:
 
 ```bash
-clang -Wall raty.c
+clang -Wall raty.c -o raty.exe
 ```
 
 ---
