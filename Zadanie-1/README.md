@@ -34,9 +34,9 @@ raty.exe
 
 Program poprosi o podanie kolejno:
 
-1. Kwoty kredytu (double, np. 12000)
-2. Liczby rat (int, np. 12)
-3. Oprocentowania rocznego (double, np. 0.10 dla 10%)
+1. Kwoty kredytu (double, np. 12000).
+2. Liczby rat (int, np. 12).
+3. Oprocentowania rocznego (double, np. 0.10 dla 10%).
 
 Po wprowadzeniu danych program wyświetli harmonogram spłat w formacie:
 
