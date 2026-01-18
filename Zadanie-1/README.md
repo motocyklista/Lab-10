@@ -40,8 +40,9 @@ Program poprosi o podanie kolejno:
 
 Po wprowadzeniu danych program wyświetli harmonogram spłat w formacie:
 
+```
   Miesiac X: Rata SUMA (K: KAPITAŁ + O: ODSETKI) | Pozostalo: RESZTA
-
+```
 ---
 
 ### Przykłady działania
